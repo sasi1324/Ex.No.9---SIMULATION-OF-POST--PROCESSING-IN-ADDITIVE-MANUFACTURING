@@ -46,9 +46,14 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-
-### Name:
-### Register Number:
+![image](https://github.com/tamilh45/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150312761/8bc28d60-db73-4f88-89c0-a2cbe54b6438)
+![image](https://github.com/tamilh45/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150312761/c25b8476-2c91-4ce6-be62-773b2a72fc11)
+![image](https://github.com/tamilh45/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150312761/0f8c22a2-16a0-4b33-baf8-188fde97e054)
+![image](https://github.com/tamilh45/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150312761/5c9f1d20-a4a8-421b-9bee-12889245bcca)
+![image](https://github.com/tamilh45/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150312761/0f8c22a2-16a0-4b33-baf8-188fde97e054)
+![image](https://github.com/tamilh45/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150312761/5c9f1d20-a4a8-421b-9bee-12889245bcca)
+### Name: SASINTHARA
+### Register Number: 23005130
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
